@@ -1,11 +1,11 @@
 <head>
-<title>Gulab</title>
+<title>Tears</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Gulab">
-<meta property="og:description" content="Gulab # 0001">
-<meta name="author" content="Gulab">
-<meta property="og:url" content="https://gulab.wtf">
-<meta property="og:image" content="https://cdn.discordapp.com/attachments/977082607806328842/986448263815254016/a_1d33d790c08ec0b18ba86fd0a428af8e.gif?size=4096">
+<meta property="og:title" content="tears">
+<meta property="og:description" content="myself # 0001">
+<meta name="author" content="tears">
+<meta property="og:url" content="https://urblack.xyz">
+<meta property="og:image" content="https://media.discordapp.net/attachments/947597242582323210/976984109073199176/tenor.gif">
 <meta name="theme-color" content="#191919" />
 </head>
 
